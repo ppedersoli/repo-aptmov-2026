@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.epm.apmovil2026" />
+                  <option name="mobileSdkAppId" value="1:701862037952:android:b3ab59dc47424c9fa8e025" />
+                  <option name="projectId" value="aplicaciones2026-fde9a" />
+                  <option name="projectNumber" value="701862037952" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

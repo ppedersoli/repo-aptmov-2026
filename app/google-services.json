@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701862037952",
+    "project_id": "aplicaciones2026-fde9a",
+    "storage_bucket": "aplicaciones2026-fde9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701862037952:android:b3ab59dc47424c9fa8e025",
+        "android_client_info": {
+          "package_name": "com.epm.apmovil2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANQs2r3HxSxm87g_UhqrUWrNHUS_3MTJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
