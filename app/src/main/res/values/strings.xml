@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">apmovil2026</string>
+    <string-array name="gender_options">
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+        <item>Prefiero no decirlo</item>
+    </string-array>
 </resources>
